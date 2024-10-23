@@ -18,13 +18,14 @@
     rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 .title {
-  font-family: sans-serif;
+  font-family: "Work-Sans";
   font-size: 29px;
   font-weight: 700px;
 }
 .title_container {
   display: flex;
   justify-content: flex-start;
+  font-family: "Work-Sans";
   align-items: center;
   gap: 16px;
   width: 100%;
@@ -32,6 +33,7 @@
 
 .accordion-header {
   display: flex;
+  font-family: "Work-Sans";
   justify-content: center;
   align-items: center;
   gap: 131px;
